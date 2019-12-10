@@ -22,6 +22,10 @@
         "prefer-const": "error",
         "no-var": "error",
         "space-before-function-paren": "error",
-        "newline-before-return": "error"
+        "newline-before-return": "error",
+        "quotes": [
+            "error",
+            "double"
+        ]
     }
 }
