@@ -1,0 +1,31 @@
+{
+  "name": "up-down-button_task",
+  "version": "1.0.0",
+  "description": "Javascript.info chapter \"Scrolling\" task number 2, \"Up/Down Button\" Solution",
+  "main": "scripts/script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DragonOsman/up-down-button-task.git"
+  },
+  "keywords": [
+    "javascript.info",
+    "javascript.info-task",
+    "up-down-button",
+    "scroll-button"
+  ],
+  "author": "Osman Zakir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DragonOsman/up-down-button-task/issues"
+  },
+  "homepage": "https://github.com/DragonOsman/up-down-button-task#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.7.2",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
